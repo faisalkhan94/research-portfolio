@@ -42,4 +42,4 @@ Google Scholar
 
 LinkedIn-https://www.linkedin.com/in/md-abu-sayed-khan-faisal-30bb87239 
 
-GitHub
+GitHub-https://github.com/faisalkhan94
