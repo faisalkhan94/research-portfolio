@@ -1,0 +1,5 @@
+- **Machine Learning & Deep Learning**: Algorithms, predictive modeling, and large-scale applications.  
+- **Renewable Energy & Sustainability**: AI-driven forecasting, optimization, and adoption modeling.  
+- **Autonomous Systems & Robotics**: Computer vision, decision-making, and navigation.  
+- **Generative AI**: Applying advanced AI models for data synthesis and automation.  
+- **GitOps for Reliable AI**: Leveraging DevOps principles to ensure scalable, reproducible AI workflows.  
