@@ -38,8 +38,6 @@ future-work.md → Research directions I aim to pursue during my PhD
 
 ORCID-https://orcid.org/0009-0002-1525-5252
 
-Google Scholar
-
 LinkedIn-https://www.linkedin.com/in/md-abu-sayed-khan-faisal-30bb87239 
 
 GitHub-https://github.com/faisalkhan94
