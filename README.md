@@ -41,3 +41,5 @@ ORCID-https://orcid.org/0009-0002-1525-5252
 LinkedIn-https://www.linkedin.com/in/md-abu-sayed-khan-faisal-30bb87239 
 
 GitHub-https://github.com/faisalkhan94
+
+Medium-https://medium.com/@saeed.khan.sk646
